@@ -15,6 +15,12 @@
 ## 我的第二重身份是一个女popper.
 视频等老子我学会了再放上来。
 
+我的舞蹈记录
+![Page Speed](/README_images/DanceYe.jpeg)
+我把自己的比赛经历写在CV(学术简历)上:
+![Page Speed](/README_images/BattleCV.jpeg)
+
+
 ## 我的第三重身份是一个女神经。
 
 ![Page Speed](/README_images/ganfan.jpeg)
