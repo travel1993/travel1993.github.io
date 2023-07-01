@@ -2,11 +2,11 @@
 import { Icon } from "@iconify/react";
 
 // Projects Images (add your images to the images directory and import below)
-import Logo from "./images/logo.svg";
+import Logo from "./images/LittleYe.jpeg";
 
 // Hero Images (add your images to the /images directory with the same names)
-import HeroLight from "./images/hero-light.jpg";
-import HeroDark from "./images/hero-dark.jpg";
+import HeroLight from "./images/snoopy1.jpeg";
+import HeroDark from "./images/snoopy2.jpeg";
 // If you change the import names above then you need to change the export names below
 export { HeroLight as Light };
 export { HeroDark as Dark };
