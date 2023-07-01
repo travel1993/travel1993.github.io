@@ -13,13 +13,13 @@
 ![Page Speed](/README_images/EyetrackingYe.jpeg)
 
 ## 我的第二重身份是一个女popper.
-视频明天我学会了再放上来。
+视频等老子我学会了再放上来。
 
 ## 我的第三重身份是一个女神经。
 
-![Hero Light](/README_images/snoopy1.png)
+![Page Speed](/README_images/snoopy1.png)
 
-![Hero Dark](/README_images/snoopy2.png)
+![Page Speed](/README_images/snoopy2.png)
 
 ## 我的最终身份是珍惜、感恩、爱爱我的人。
 ![Page Speed](/README_images/LittleYe.jpeg)
