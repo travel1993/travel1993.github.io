@@ -9,7 +9,8 @@
 
 
 ## 我的第一重身份是一个女博士。
-我每天做自己喜欢的研究
+每天做自己喜欢的研究
+也到处抓小朋友
 
 ![Page Speed](/README_images/EyetrackingYe.jpeg)
 
