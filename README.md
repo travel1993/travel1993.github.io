@@ -17,9 +17,9 @@
 
 ## 我的第三重身份是一个女神经。
 
-![Page Speed](/README_images/snoopy1.jpeg)
+![Page Speed](/README_images/ganfan.jpeg)
 
-![Page Speed](/README_images/snoopy2.jpeg)
+![Page Speed](/README_images/zhuang.jpeg)
 
-## 我的最终身份是珍惜、感恩、爱爱我的人。
+## 我的最终身份是一个孩子。
 ![Page Speed](/README_images/LittleYe.jpeg)
