@@ -17,12 +17,12 @@
 ## 我的第二重身份是一个女popper.
 
 我的舞蹈记录：不是职业 有空就跳 因为爱好 所以坚持
-# 某次练习
-![Page Speed](/README_images/danceYe.mp4)
+某次练习
+![Page Speed](/README_images/DanceYe.mp4)
 我很自豪自己的爱好，也很开心把它写在自己的比赛经历写在CV(学术简历)上:
 ![Page Speed](/README_images/BattleCV.jpeg)
-其实poppin很难，是一个需要大量大量重复枯燥练习的技能。
-更多时候坚持poppin，也让我对其他东西的坚持也更有意义，包括学术。
+#其实poppin很难，是一个需要大量大量重复枯燥练习的技能。
+#更多时候坚持poppin，也让我对其他东西的坚持也更有意义，包括学术。
 
 
 ## 我的第三重身份是一个女神经。
