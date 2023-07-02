@@ -18,7 +18,7 @@
 
 我的舞蹈记录：不是职业 有空就跳 因为爱好 所以坚持
 某次练习
-![Page Speed](/README_images/DanceYe.mp4)
+![Page Speed](/README_images/danceYe.mp4)
 我很自豪自己的爱好，也很开心把它写在自己的比赛经历写在CV(学术简历)上:
 ![Page Speed](/README_images/BattleCV.jpeg)
 #其实poppin很难，是一个需要大量大量重复枯燥练习的技能。
