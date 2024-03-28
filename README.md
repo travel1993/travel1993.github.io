@@ -1,6 +1,6 @@
 ![Page Speed](/README_images/LofiGirl.JPG)
 
-# 你好，我是一个正在自我修养和进步的网站。争取每天进步一点点
+# 你好，我是一个正在自我修养和进步的网站。争取偶尔进步一点点
 
 # 关于我
 ![Page Speed](/README_images/YeLi.jpg)
