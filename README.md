@@ -1,4 +1,4 @@
-![Page Speed](/README_images/LofiGirl.jpg)
+![Page Speed](/README_images/LofiGirl.JPG)
 
 # 你好，我是一个正在自我修养和进步的网站。争取每天进步一点点
 
@@ -26,7 +26,7 @@
 ### 我也偶尔在大街上撒欢。
 ![Page Speed](/README_images/ganfan.jpeg)
 ### 我更希望自己保持孩子的纯真，记得这个浑浊的世界更多的善良。
-![Page Speed](/README_images/LittleYe.jpg)
+![Page Speed](/README_images/LittleYe.JPG)
 
 
-![Page Speed](/README_images/LofiGirl.jpg)
+![Page Speed](/README_images/LofiGirl.JPG)
