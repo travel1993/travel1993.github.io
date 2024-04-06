@@ -10,9 +10,9 @@
 
 # 出版物
 ## Publications & in press
-Li, Y. & Benitez, V.L. (in press). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. (Preprint) (Data & materials)\
-Li, Y. & Benitez, V. L. (2023). Lexical tone as a cue in statistical word learning from bilingual input. *Bilingualism: Language and Cognition*. Advance online publication. https://doi.org/doi:10.1017/S1366728923000858\
-Benitez, V. L., & Li, Y. (2023). Cross-situational word learning in children and adults: The case of lexical overlap. *Language Learning and Development*. Advance online publication. https://doi.org/10.1080/15475441.2023.2256713\ 
+Li, Y. & Benitez, V.L. (in press). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. ([Preprint](https://doi.org/10.31234/osf.io/t9gx8)) ([Data & materials](https://osf.io/mte8s/))\
+Li, Y. & Benitez, V. L. (2023). Lexical tone as a cue in statistical word learning from bilingual input. *Bilingualism: Language and Cognition*. Advance online publication. https://doi.org/doi:10.1017/S1366728923000858 \
+Benitez, V. L., & Li, Y. (2023). Cross-situational word learning in children and adults: The case of lexical overlap. *Language Learning and Development*. Advance online publication. https://doi.org/10.1080/15475441.2023.2256713 \ 
 Li, Y., Zhang, Z., & Huang, Y. (2020). A corpus-based diachronic analysis on gender bias in Great Britain from 1961 to 1990. *Journal of Chongqing Technology and Business University (Social Science Edition). 37*(02): 128-140.\
 ## Manuscripts under review
 Li, Y. & Benitez, V. L. (under review). Concurrences across time and sensorimotor capacities promote infant learning.
