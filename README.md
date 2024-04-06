@@ -34,11 +34,11 @@
 - 我更希望自己**保持孩子的纯真**，记得这个浑浊的世界更多的善良。
 ![Page Speed](/README_images/LittleYe.jpeg)
 - 我很爱我的家人，是他们给与我生命、健康的身体、健康的心理、和无与伦比的爱和童年。我在任何地方都最感谢他们。
-![Page Speed](/README_images/Family.JPG)
-![Page Speed](/README_images/Ye_baby.JPG)
+![Page Speed](/README_images/Family.jpg)
+![Page Speed](/README_images/Ye_baby.jpg)
 - 我有我的另一半。$${\color{blue}我们一起探索事业、网球、和未来。}$$
-- ![Page Speed](/README_images/tennis.jpg)
-- 我被压制的内心喜爱旅行，我一个人去过很多地方；我还想去：和妈妈去西藏，和爱人去大理，去一次肖申克的救赎里Andy解脱后的墨西哥岛屿Zihuatanejo
 ![Page Speed](/README_images/tennis.jpg)
+- 我被压制的内心喜爱旅行，我一个人去过很多地方；我还想去：和妈妈去西藏，和爱人去大理，去一次肖申克的救赎里Andy解脱后的墨西哥岛屿Zihuatanejo
+![Page Speed](/README_images/Zihuatanejo.jpg)
 
 ![Page Speed](/README_images/LofiGirl.JPG)
