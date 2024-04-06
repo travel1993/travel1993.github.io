@@ -23,12 +23,12 @@
 - **Li, Y.**, Yu, S.P., McBeath, M., & Benitez, V. L. (in preparation). English-speaking children and adults exhibit a “Gleam-Glum” sound symbolic effect linking phonemic vowel sounds with emotional valence.
 
 
-## 关于更多元的我：不定义、更不被定义。
-我爱跳街舞 - poppin是我的种类，是一个需要大量重复枯燥练习的技能。它也让我的坚持更有动力。\
+# 关于更多元的我：不定义、更不被定义。
+### 我爱跳街舞 - poppin是我的种类，是一个需要大量重复枯燥练习的技能。它也让我的坚持更有动力。\
 ![Page Speed](/README_images/BattleCV.jpeg)
-我也偶尔在大街上撒欢。\
+### 我也偶尔在大街上撒欢。\
 ![Page Speed](/README_images/ganfan.jpeg)
-我更希望自己保持孩子的纯真，记得这个浑浊的世界更多的善良。\
+### 我更希望自己保持孩子的纯真，记得这个浑浊的世界更多的善良。\
 ![Page Speed](/README_images/LittleYe.jpeg)
 
 
