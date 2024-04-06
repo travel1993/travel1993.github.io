@@ -14,7 +14,7 @@
 - 职业发展：回中国的东方（如浙江）或者南方（如广东）做教职 - 因为这里的popper都不错。
 
 # 出版物
-- ![Page Speed](/README_images/publication.jpg)
+![Page Speed](/README_images/publication.jpg)
 ### Publication & in press
 - **Li, Y.** & Benitez, V.L. (in press). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. ([Preprint](https://doi.org/10.31234/osf.io/t9gx8)) ([Data & materials](https://osf.io/mte8s/))
 - **Li, Y.** & Benitez, V. L. (2023). Lexical tone as a cue in statistical word learning from bilingual input. *Bilingualism: Language and Cognition*. Advance online publication. https://doi.org/doi:10.1017/S1366728923000858
