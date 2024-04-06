@@ -3,7 +3,7 @@
 # 你好，我是一个正在自我修养和进步的网站。争取偶尔进步一点点
 
 # 关于我
-![Page Speed](/README_images/YeLi.jpg|width=100)
+![Page Speed](/README_images/YeLi.jpg | width = 250)
 ## - 亚利桑那州立大学心理学认知科学博士生在读（2019至今） - Arizona State Universty, Psychology (Cognitive Science), Ph.D. candidate
 ## - 旨在从婴幼儿的词汇学习进度中，找到灵感。婴幼儿每天在教我学习新的知识、认识多角度的世界。 - Infants teach me what to learn, and what to attend. I feel awed by infants, and their interaction with the world.
 ## - 当前正在完成毕业论文的工作
