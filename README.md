@@ -8,7 +8,8 @@
 - ## Arizona State Universty, Psychology (Cognitive Science), Ph.D. candidate
 - 从婴幼儿的词汇学习进度中找到灵感。婴幼儿每天在教我学习新的知识、认识多角度的世界。
 - Infants teach me what to learn, and what to attend. I feel awed by infants, and their interaction with the world.
-- 当前正在完成毕业论文的工作
+- 当前正在完成毕业论文的工作 (2023年秋季 - 2024年秋季）
+- 职业发展：回中国的东方（如浙江）或者南方（如广东）做教职 - 因为这里的popper都不错。
 
 # 出版物
 ### Publication & in press
