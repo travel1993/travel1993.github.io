@@ -1,7 +1,7 @@
 ![Page Speed](/README_images/LofiGirl.JPG)
 
 # 你好，我是一个正在自我修养和进步的网站。争取偶尔进步一点点
-![Page Speed](/README_images/fractal.jpeg){:height="700px" width="400px"}
+![Page Speed](/README_images/fractal.jpeg){:height="400px" width="400px"}
 
 # 关于我
 ![Page Speed](/README_images/YeLi-Small.jpg)
