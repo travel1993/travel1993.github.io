@@ -36,7 +36,7 @@
 - 我很爱我的家人，是他们给予我生命、健康的身体、健康的心理、和无与伦比的爱和童年。我在任何地方都最感谢他们。
 ![Page Speed](/README_images/Family.jpg)
 ![Page Speed](/README_images/Ye_baby.jpg)
-- 我有我的另一半。我们一起探索事业、网球、和未来。\
+- 我有我的另一半。我们一起探索事业、网球、和未来。他的5月4日的生日-也是我们度过的第一个生日。\
 ![Page Speed](/README_images/tennis.jpg)
 ![Page Speed](/README_images/tennis_weiqing.jpg)
 - 被压制的内心喜爱旅行，我一个人去过很多地方；我还想去：和妈妈去西藏，和爱人去大理，去肖申克的救赎里Andy解脱后的墨西哥岛屿Zihuatanejo\
