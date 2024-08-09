@@ -35,23 +35,25 @@
 
 
 
-# Academia is important but only comprises 50% of my life.
-# 学业重要，但只是多彩生活的一半。
+# Academia is important but only comprises a small portion of my life.
+# 学业重要，但只是多彩生活的一部分。
 
-![Page Speed](/README_images/Family.jpg)
 # Family 我和家人们
+![Page Speed](/README_images/Family.jpg)
 
+
+# Childhood 我的童年
 ![Page Speed](/README_images/Ye_baby.jpg)
 ![Page Speed](/README_images/LittleYe.jpeg)
-# Childhood 我的童年
 
-![Page Speed](/README_images/tennis_weiqing.jpg)
 # Tennis 我的网球和另一半
+![Page Speed](/README_images/tennis_weiqing.jpg)
 
-![Page Speed](/README_images/Zihuatanejo.jpg)
 # Zihuatanejo 肖申克的救赎最后Andy和Red相遇的地方
+![Page Speed](/README_images/Zihuatanejo.jpg)
 
-![Page Speed](/README_images/fractal.jpeg)
 # Fractal Ye 分形的叶子
+![Page Speed](/README_images/fractal.jpeg)
+
 
 ![Page Speed](/README_images/LofiGirl.JPG)
