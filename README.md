@@ -9,13 +9,13 @@
 ![Page Speed](/README_images/YeLi-Small.jpg)
 - ## Ph.D. candidate in Arizona State University, Psychology (Cognitive Science)（2019 to present）@ ([Learning and Development Lab](https://www.learndevlab.org/))
 - ## 亚利桑那州立大学心理学认知科学博士生在读，心理学认知科学专业（2019至今）@ ([学习与发展实验室](https://www.learndevlab.org/))
-![Page Speed](/README_images/ASU_Logo.jpg)
 - Infants teach me what to learn, and what to attend. I feel awed by infants, and their interaction with the world.
 - 从婴幼儿的词汇学习进度中找到灵感。婴幼儿每天在教我学习新的知识、认识多角度的世界。
 - I am on the academic job market in the 2024-2025 cycle, aimed for positions in mainland China.
 - 当前正在完成毕业论文，求职2024-2025中国大陆的教职工作
 - Outside the lab, I enjoy spending time with my family members, doing street dance (poppin category), and playing tennis.
 - 实验室之外，我喜欢和家人待在一起、跳街舞(poppin震感舞)、和打网球。
+- ![Page Speed](/README_images/ASU_Logo.jpg)
 
 # Publication
 # 出版物
