@@ -2,7 +2,7 @@
 
 # Hello - this is Ye Li's personal website
 # 你好 - 这是李叶的个人主页。
-![Page Speed](/README_images/fractal.jpeg)
+
 
 # 1. About Me
 # 2. 关于我
@@ -19,8 +19,7 @@
 
 # Publication
 # 出版物
-#denotes mentee
-#代表辅导学生
+#denotes mentee; #代表辅导学生
 ![Page Speed](/README_images/publication.jpg)
 - **Li, Y.** & Benitez, V. L. (accepted/in press). Concurrences across time and sensorimotor capacities promote infant learning. ([Preprint](https://doi.org/10.31234/osf.io/cn8bw))
 - **Li, Y.** & Benitez, V.L. (2024). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. https://doi.org/10.1037/xlm0001361
@@ -36,21 +35,23 @@
 
 
 
-# Academia is important but only 50% of my life.
+# Academia is important but only comprises 50% of my life.
 # 学业重要，但只是生命多彩的一半。
 
 ![Page Speed](/README_images/Family.jpg)
-# Family
+# Family 我的家人们
 
 ![Page Speed](/README_images/Ye_baby.jpg)
 ![Page Speed](/README_images/LittleYe.jpeg)
-# Childhood
+# Childhood 我的童年
 
 ![Page Speed](/README_images/tennis_weiqing.jpg)
-# Tennis
+# Tennis 我的网球和另一半
 
 ![Page Speed](/README_images/Zihuatanejo.jpg)
-# Zihuatanejo
+# Zihuatanejo 肖申克的救赎最后Andy和Red相遇的地方
 
+![Page Speed](/README_images/fractal.jpeg)
+# Fractal Ye 分形的叶子
 
 ![Page Speed](/README_images/LofiGirl.JPG)
