@@ -5,7 +5,7 @@
 
 
 # 1. About Me
-# 2. 关于我
+# 1. 关于我
 ![Page Speed](/README_images/YeLi-Small.jpg)
 - ## Ph.D. candidate in Arizona State University, Psychology (Cognitive Science)（2019 to present）@ ([Learning and Development Lab](https://www.learndevlab.org/))
 - ## 亚利桑那州立大学心理学认知科学博士生在读，心理学认知科学专业（2019至今）@ ([学习与发展实验室](https://www.learndevlab.org/))
@@ -36,10 +36,10 @@
 
 
 # Academia is important but only comprises 50% of my life.
-# 学业重要，但只是生命多彩的一半。
+# 学业重要，但只是多彩生活的一半。
 
 ![Page Speed](/README_images/Family.jpg)
-# Family 我的家人们
+# Family 我和家人们
 
 ![Page Speed](/README_images/Ye_baby.jpg)
 ![Page Speed](/README_images/LittleYe.jpeg)
