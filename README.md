@@ -15,12 +15,12 @@
 - 当前正在完成毕业论文，求职2024-2025中国大陆的教职工作
 - Outside the lab, I enjoy spending time with my family members, doing street dance (poppin category), and playing tennis.
 - 实验室之外，我喜欢和家人待在一起、跳街舞(poppin震感舞)、和打网球。
-- ![Page Speed](/README_images/ASU_Logo.jpg)
 
+
+![Page Speed](/README_images/publication.jpg)
 # Publication
 # 出版物
 #denotes mentee; #代表辅导学生
-![Page Speed](/README_images/publication.jpg)
 - **Li, Y.** & Benitez, V. L. (accepted/in press). Concurrences across time and sensorimotor capacities promote infant learning. ([Preprint](https://doi.org/10.31234/osf.io/cn8bw))
 - **Li, Y.** & Benitez, V.L. (2024). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. https://doi.org/10.1037/xlm0001361
 - **Li, Y.** & Benitez, V. L. (2023). Lexical tone as a cue in statistical word learning from bilingual input. *Bilingualism: Language and Cognition*. Advance online publication. https://doi.org/doi:10.1017/S1366728923000858
