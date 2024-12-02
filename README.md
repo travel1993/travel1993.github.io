@@ -1,8 +1,9 @@
 ![Page Speed](/README_images/LofiGirl.JPG)
 
+# 浏览这个主页的时候，请播放这个[歌单](https://www.youtube.com/watch?v=FT3wB6fJRAo&list=PLEVIHIMz33wrgza7F9CtGDiaVlrqHWT7L&index=9)
+
 # Hello - this is Ye Li's personal website
 # 你好 - 这是李叶的个人主页。
-
 
 # 1. About Me
 # 1. 关于我
@@ -21,7 +22,7 @@
 # Publication
 # 出版物
 #denotes mentee; #代表辅导学生
-- **Li, Y.** & Benitez, V. L. (accepted/in press). Concurrences across time and sensorimotor capacities promote infant learning. ([Preprint](https://doi.org/10.31234/osf.io/cn8bw))
+- **Li, Y.** & Benitez, V. L. (2024). Concurrences across time and sensorimotor capacities promote infant learning. *Child Development Perspectives*. Advance online publication. http://doi.org/10.1111/cdep.12531
 - **Li, Y.** & Benitez, V.L. (2024). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. https://doi.org/10.1037/xlm0001361
 - **Li, Y.** & Benitez, V. L. (2023). Lexical tone as a cue in statistical word learning from bilingual input. *Bilingualism: Language and Cognition*. Advance online publication. https://doi.org/doi:10.1017/S1366728923000858
 - Benitez, V. L., & **Li, Y.** (2023). Cross-situational word learning in children and adults: The case of lexical overlap. *Language Learning and Development*. Advance online publication. https://doi.org/10.1080/15475441.2023.2256713 
