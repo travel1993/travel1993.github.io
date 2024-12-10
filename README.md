@@ -29,7 +29,7 @@
 - **Li, Y.**, Zhang, Z., & Huang, Y. (2020). A corpus-based diachronic analysis on gender bias in Great Britain from 1961 to 1990. *Journal of Chongqing Technology and Business University (Social Science Edition). 37*(02): 128-140.
 ### Manuscripts under review
 ### 文章审核中
-- **Li, Y.**, Yu, S.P., McBeath, M., & Benitez, V. L. (in preparation). U.S. English-speaking children and adults exhibit a “Gleam-Glum” sound-symbolic effect linking phonemic vowel sounds with emotional valence. *Psychological Science*
+- **Li, Y.**, Yu, S.P., McBeath, M., & Benitez, V. L. (in preparation). U.S. English-speaking children and adults exhibit a “Gleam-Glum” sound-symbolic effect linking phonemic vowel sounds with emotional valence.
 ### Manuscripts in progress
 ### 文章准备中
 - Kuo, J. E.#, **Li, Y.**, Yu, S. P., McBeath, M. K., & Benitez, V. L. (in preparation). The Wham-Womb sound symbolic effect: English-speaking children and adults link phonemes with arousal
