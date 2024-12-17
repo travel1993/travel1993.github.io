@@ -1,6 +1,6 @@
 ![Page Speed](/README_images/LofiGirl.JPG)
 
-# 浏览这个主页的时候，请播放这个[歌单](https://www.youtube.com/watch?v=FT3wB6fJRAo&list=PLEVIHIMz33wrgza7F9CtGDiaVlrqHWT7L&index=9)
+# 浏览这个主页的时候，请播放这个[歌单：好想爱这个世界啊]([https://www.youtube.com/watch?v=eSvnAyHFoyo])
 
 # Hello - this is Ye Li's personal website
 # 你好 - 这是李叶的个人主页。
@@ -21,18 +21,18 @@
 ![Page Speed](/README_images/publication.jpg)
 # Publication
 # 出版物
-#denotes mentee; #代表辅导学生
-- **Li, Y.** & Benitez, V. L. (2024). Concurrences across time and sensorimotor capacities promote infant learning. *Child Development Perspectives*. Advance online publication. http://doi.org/10.1111/cdep.12531
-- **Li, Y.** & Benitez, V.L. (2024). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. https://doi.org/10.1037/xlm0001361
-- **Li, Y.** & Benitez, V. L. (2023). Lexical tone as a cue in statistical word learning from bilingual input. *Bilingualism: Language and Cognition*. Advance online publication. https://doi.org/doi:10.1017/S1366728923000858
-- Benitez, V. L., & **Li, Y.** (2023). Cross-situational word learning in children and adults: The case of lexical overlap. *Language Learning and Development*. Advance online publication. https://doi.org/10.1080/15475441.2023.2256713 
-- **Li, Y.**, Zhang, Z., & Huang, Y. (2020). A corpus-based diachronic analysis on gender bias in Great Britain from 1961 to 1990. *Journal of Chongqing Technology and Business University (Social Science Edition). 37*(02): 128-140.
+#denotes mentee; #代表通讯作者
+- **Li, Y.**# & Benitez, V. L. (2024). Concurrences across time and sensorimotor capacities promote infant learning. *Child Development Perspectives*. Advance online publication. http://doi.org/10.1111/cdep.12531
+- **Li, Y.**# & Benitez, V.L. (2024). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. https://doi.org/10.1037/xlm0001361
+- **Li, Y.**# & Benitez, V. L. (2023). Lexical tone as a cue in statistical word learning from bilingual input. *Bilingualism: Language and Cognition*. Advance online publication. https://doi.org/doi:10.1017/S1366728923000858
+- Benitez, V.# L., & **Li, Y.** (2023). Cross-situational word learning in children and adults: The case of lexical overlap. *Language Learning and Development*. Advance online publication. https://doi.org/10.1080/15475441.2023.2256713 
+- **Li, Y.**#, Zhang, Z., & Huang, Y. (2020). A corpus-based diachronic analysis on gender bias in Great Britain from 1961 to 1990. *Journal of Chongqing Technology and Business University (Social Science Edition). 37*(02): 128-140.
 ### Manuscripts under review
 ### 文章审核中
-- **Li, Y.**, Yu, S.P., McBeath, M., & Benitez, V. L. (in preparation). U.S. English-speaking children and adults exhibit a “Gleam-Glum” sound-symbolic effect linking phonemic vowel sounds with emotional valence.
+- **Li, Y.**#, Yu, S.P., McBeath, M., & Benitez, V. L. (in preparation). U.S. English-speaking children and adults exhibit a “Gleam-Glum” sound-symbolic effect linking phonemic vowel sounds with emotional valence.
 ### Manuscripts in progress
 ### 文章准备中
-- Kuo, J. E.#, **Li, Y.**, Yu, S. P., McBeath, M. K., & Benitez, V. L. (in preparation). The Wham-Womb sound symbolic effect: English-speaking children and adults link phonemes with arousal
+- Kuo, J. E., **Li, Y.**, Yu, S. P., McBeath, M. K., & Benitez, V. L.# (in preparation). The Wham-Womb sound symbolic effect: English-speaking children and adults link phonemes with arousal
 
 
 
