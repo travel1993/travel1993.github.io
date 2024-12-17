@@ -21,7 +21,7 @@
 ![Page Speed](/README_images/publication.jpg)
 # Publication
 # 出版物
-#denotes mentee; #代表通讯作者
+#denotes corresponding author; #代表通讯作者
 - **Li, Y.**# & Benitez, V. L. (2024). Concurrences across time and sensorimotor capacities promote infant learning. *Child Development Perspectives*. Advance online publication. http://doi.org/10.1111/cdep.12531
 - **Li, Y.**# & Benitez, V.L. (2024). Probing the role of multilingualism and working memory in cross-situational word learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Advance online publication. https://doi.org/10.1037/xlm0001361
 - **Li, Y.**# & Benitez, V. L. (2023). Lexical tone as a cue in statistical word learning from bilingual input. *Bilingualism: Language and Cognition*. Advance online publication. https://doi.org/doi:10.1017/S1366728923000858
