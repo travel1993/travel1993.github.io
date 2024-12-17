@@ -1,6 +1,6 @@
 ![Page Speed](/README_images/LofiGirl.JPG)
 
-# 浏览这个主页的时候，请播放这个[歌单：好想爱这个世界啊]([https://www.youtube.com/watch?v=eSvnAyHFoyo])
+# 浏览这个主页的时候，请播放这个[歌单：好想爱这个世界啊]([https://www.youtube.com/watch?v=eSvnAyHFoyo]))
 
 # Hello - this is Ye Li's personal website
 # 你好 - 这是李叶的个人主页。
