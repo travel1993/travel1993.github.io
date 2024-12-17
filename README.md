@@ -54,7 +54,7 @@
 
 # 好想爱这个世界啊
 ## 想过离开，当阳光败给阴霾，没想到你会拼命为我拨开。曾想过离开，却又坚持到现在，熬过了，那些旁白，那些姿态 那些伤害。
-![Page Speed](/README_images/lovetheworld.jpg)
+![Page Speed](/README_images/lovetheworld.jpeg)
 
 
 
